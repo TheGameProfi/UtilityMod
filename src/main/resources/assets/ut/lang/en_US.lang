@@ -14,7 +14,7 @@ item.steal_pickaxe.name=Steel Pickaxe
 item.steal_axe.name=Steel Axe
 item.steal_shovel.name=Steel Shovel
 item.steal_sword.name=Steel Sword
-item.steal_hoe.name=Steal Hoe
+item.steal_hoe.name=Steel Hoe
 
 item.rusty_pickaxe.name=Rusty Pickaxe
 item.rusty_axe.name=Rusty Axe
@@ -63,11 +63,11 @@ item.glass_boots.name=Glass Boots
 //Block
 tile.ruby_block.name=Ruby Block
 tile.steal_block.name=Steel Block
-tile.rusty_block.name=Rusty Steal Block
+tile.rusty_block.name=Rusty Steel Block
 
 tile.ruby_ore.name=Ruby Ore
 tile.steal_ore.name=Steel Ore
-tile.rusty_ore.name=Rusty Steal Ore
+tile.rusty_ore.name=Rusty Steel Ore
 
 //CreativeTab
 itemGroup.utility=Utility Tab
