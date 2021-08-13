@@ -1,0 +1,73 @@
+//Item
+item.steal.name=Stahl
+item.ruby.name=Rubin
+item.rusty_steal.name=Rostiger Stahl
+
+//Tools
+item.ruby_pickaxe.name=Rubin Spitzhacke
+item.ruby_axe.name=Rubin Axt
+item.ruby_shovel.name=Rubin Schaufel
+item.ruby_sword.name=Rubin Schwert
+item.ruby_hoe.name=Rubin Hacke
+
+item.steal_pickaxe.name=Stahl Spitzhacke
+item.steal_axe.name=Stahl Axt
+item.steal_shovel.name=Stahl Schaufel
+item.steal_sword.name=Stahl Schwert
+item.steal_hoe.name=Stahl Hacke
+
+item.rusty_pickaxe.name=Rostige Spitzhacke
+item.rusty_axe.name=Rostige Axt
+item.rusty_shovel.name=Rostige Schaufel
+item.rusty_sword.name=Rostige Schwet
+item.rusty_hoe.name=Rostige Hacke
+
+item.emerald_pickaxe.name=Smaragd Spitzhacke
+item.emerald_axe.name=Smaragd Axt
+item.emerald_shovel.name=Smaragd Schaufel
+item.emerald_sword.name=Smaragd Schwert
+item.emerald_hoe.name=Smaragd Hacke
+
+item.glass_pickaxe.name=Glas Spitzhacke
+item.glass_axe.name=Glas Axt
+item.glass_shovel.name=Glas Schaufel
+item.glass_sword.name=Glas Schwert
+item.glass_hoe.name=Glas Hacke
+
+//Armor
+item.ruby_helmet.name=Rubin Helm
+item.ruby_chestplate.name=Rubin Brustpanzer
+item.ruby_leggings.name=Rubin Leggings
+item.ruby_boots.name=Rubin Stiefel
+
+item.rusty_helmet.name=Rostiger Helm
+item.rusty_chestplate.name=Rostiger Brustpanzer
+item.rusty_leggings.name=Rostiger Leggings
+item.rusty_boots.name=Rostiger Stiefel
+
+item.steal_helmet.name=Stahl Helm
+item.steal_chestplate.name=Stahl Brustpanzer
+item.steal_leggings.name=Stahl Leggings
+item.steal_boots.name=Stahl Stiefel
+
+item.emerald_helmet.name=Smaragd Helm
+item.emerald_chestplate.name=Smaragd Brustpanzer
+item.emerald_leggings.name=Smaragd Leggings
+item.emerald_boots.name=Smaragd Stiefel
+
+item.glass_helmet.name=Glas Helm
+item.glass_chestplate.name=Glas Brustpanzer
+item.glass_leggings.name=Glas Leggings
+item.glass_boots.name=Glas Stiefel
+
+//Block
+tile.ruby_block.name=Rubin Block
+tile.steal_block.name=Stahl Block
+tile.rusty_block.name=Rostiger Stahl Block
+
+tile.ruby_ore.name=Rubin Erz
+tile.steal_ore.name=Stahl Erz
+tile.rusty_ore.name=Rostiger Stahl Erz
+
+//CreativeTab
+itemGroup.utility=Utility Tab

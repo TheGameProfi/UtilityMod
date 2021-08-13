@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: UtilityMod
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-08-13T10:26:14+0200
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

@@ -1,0 +1,73 @@
+//Item
+item.steal.name=Steel
+item.ruby.name=Ruby
+item.rusty_steal.name=Ruststeel
+
+//Tools
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_sword.name=Ruby Sword
+item.ruby_hoe.name=Ruby Hoe
+
+item.steal_pickaxe.name=Steel Pickaxe
+item.steal_axe.name=Steel Axe
+item.steal_shovel.name=Steel Shovel
+item.steal_sword.name=Steel Sword
+item.steal_hoe.name=Steal Hoe
+
+item.rusty_pickaxe.name=Rusty Pickaxe
+item.rusty_axe.name=Rusty Axe
+item.rusty_shovel.name=Rusty Shovel
+item.rusty_sword.name=Rusty Sword
+item.rusty_hoe.name=Rusty Hoe
+
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.emerald_axe.name=Emerald Axe
+item.emerald_shovel.name=Emerald Shovel
+item.emerald_sword.name=Emerald Sword
+item.emerald_hoe.name=Emerald Hoe
+
+item.glass_pickaxe.name=Glass Pickaxe
+item.glass_axe.name=Glass Axe
+item.glass_shovel.name=Glass Shovel
+item.glass_sword.name=Glass Sword
+item.glass_hoe.name=Glass Hoe
+
+//Armor
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+item.rusty_helmet.name=Rusty Helmet
+item.rusty_chestplate.name=Rusty Chestplate
+item.rusty_leggings.name=Rusty Leggings
+item.rusty_boots.name=Rusty Boots
+
+item.steal_helmet.name=Steel Helmet
+item.steal_chestplate.name=Steel Chestplate
+item.steal_leggings.name=Steel Leggings
+item.steal_boots.name=Steel Boots
+
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+
+item.glass_helmet.name=Glass Helmet
+item.glass_chestplate.name=Glass Chestplate
+item.glass_leggings.name=Glass Leggings
+item.glass_boots.name=Glass Boots
+
+//Block
+tile.ruby_block.name=Ruby Block
+tile.steal_block.name=Steel Block
+tile.rusty_block.name=Rusty Steal Block
+
+tile.ruby_ore.name=Ruby Ore
+tile.steal_ore.name=Steel Ore
+tile.rusty_ore.name=Rusty Steal Ore
+
+//CreativeTab
+itemGroup.utility=Utility Tab

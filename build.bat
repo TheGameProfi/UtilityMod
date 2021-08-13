@@ -1,0 +1,1 @@
+.\gradlew build & copy .\build\libs\modid-1.0.jar C:\Users\Marc\AppData\Roaming\.minecraft\mods & "C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe"
