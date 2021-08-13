@@ -2,6 +2,6 @@
     "parent": "item/generated",
     "textures":
     {
-        "layer0": "ut:items/emerald_chestplate"
+        "layer0": "ut:items/steal_chestplate"
     }
 }
